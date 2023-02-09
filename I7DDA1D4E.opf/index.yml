@@ -1,0 +1,79 @@
+id: bfcf382f283a441ca2f0fd4b7dbc9232
+annotation_type: index
+revision: '00001'
+annotations:
+  7a9bebf067474564b22a92b47dad54cd:
+    base: A4C4.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 289
+    - title: Introduction
+      span:
+        start: 290
+        end: 342
+    - title: §0-10
+      span:
+        start: 343
+        end: 11822
+    - title: §11-20
+      span:
+        start: 11823
+        end: 20004
+    - title: §21-30
+      span:
+        start: 20005
+        end: 26382
+    - title: §31-40
+      span:
+        start: 26383
+        end: 30460
+    - title: §41-50
+      span:
+        start: 30461
+        end: 38132
+    - title: §61-70
+      span:
+        start: 38133
+        end: 45595
+    - title: §71-80
+      span:
+        start: 45596
+        end: 50475
+    - title: §81-90
+      span:
+        start: 50476
+        end: 56450
+    - title: §91-100
+      span:
+        start: 56451
+        end: 63480
+    - title: §101-110
+      span:
+        start: 63481
+        end: 70587
+    - title: §111-120
+      span:
+        start: 70588
+        end: 73724
+    - title: §121-130
+      span:
+        start: 73725
+        end: 80650
+    - title: §130-20
+      span:
+        start: 80651
+        end: 87785
+    - title: §141-150
+      span:
+        start: 87786
+        end: 93525
+    - title: §151-160
+      span:
+        start: 93526
+        end: 99450
+    - title: §161-166
+      span:
+        start: 99451
+        end: 102879
